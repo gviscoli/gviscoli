@@ -8,7 +8,6 @@ I have leadership and deep experience to build complex architectures and leading
 
 I lead technology sales activities to drive the digital transformation vision and roadmap of my customers with technologies. I plan and orchestrate the solution proposal and coordinate technology sales teams to provide the right solution to my customers.
 
-- 👋 Hi, I’m @gviscoli
 - 👀 I’m interested in Data & AI | IoT | Qauntum Computing
 - 🌱 I’m currently learning Quantum Computing
 - 💞️ I’m looking to collaborate on AI & Quantum Computing
