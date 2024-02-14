@@ -8,7 +8,7 @@ I have leadership and deep experience to build complex architectures and leading
 
 I lead technology sales activities to drive the digital transformation vision and roadmap of my customers with technologies. I plan and orchestrate the solution proposal and coordinate technology sales teams to provide the right solution to my customers.
 
-LinkedIn Profile: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="viscoli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/viscoli?trk=profile-badge">Giuseppe Viscoli</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="viscoli" data-version="v1">LinkedIn Profile: <a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/viscoli?trk=profile-badge">Giuseppe Viscoli</a></div>
 
 
               
