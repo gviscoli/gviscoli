@@ -10,7 +10,7 @@ I lead technology sales activities to drive the digital transformation vision an
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="viscoli" data-version="v1">LinkedIn Profile: <a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/viscoli?trk=profile-badge">Giuseppe Viscoli</a></div>
 
-
+<BR>
               
 - 👀 I’m interested in Data & AI | IoT | Qauntum Computing
 - 🌱 I’m currently learning Quantum Computing
